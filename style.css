@@ -82,3 +82,46 @@
     background-color: rgba(51, 49, 49, 0.486);
     color: red;
 }
+.menu-bar{
+    background-color: rgba(65, 138, 183, 0.868);
+    width: 100%;
+    margin: auto;
+}
+.menu-bar ul{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.menus-bar ul li{
+    display: inline-block;
+}
+.menu-bar ul li a{
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: all 0.03s linear;
+}
+.menu-bar ul li:hover a{
+    font-size: 24px;
+    background-color: rgba(76, 166, 222, 0.599);
+    color: red;
+}
+.content{
+    width: 95%;
+    margin: auto;
+}
+.table-menu{
+    background-color: #6f6c6ca3;
+    width: 99%;
+    height: 300px;
+    margin: 10px;
+}
+.picture-content{
+    padding: 25px;
+    padding-left: 33px;
+    display: inline-block;
+    letter-spacing: 30px;
+}
+
