@@ -1,0 +1,151 @@
+.menu-bar{
+    background-color: rgba(25, 9, 150, 0.915);
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.menu-button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: inline-block;
+    padding-left: 60%;
+}
+.menu-button li{
+    list-style: none;
+    display: inline;
+}
+.menu-button form{
+    display: inline;
+}
+.menu-bar select{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.menu-bar input{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: rgb(8, 204, 8);
+    text-align: center;
+}
+.menu-button a{
+    text-decoration: none;
+    margin: 20px;
+    color: #eae4e4;
+}
+.menu-button li:hover{
+    font-size: 33px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
+    display: flex;
+    
+}
+.photo-content {
+    background-color: rgb(7, 7, 7);
+    width: 20%;
+    height: 200px;
+    margin: 33px;
+    border-radius: 8px;
+}
+.photo{
+    width: 322px;
+    height: 190px;
+    margin: 5px;
+    border-radius: 8px;
+}
+.discription{
+    background-color: rgba(247, 249, 249, 0.785);
+    width: 95%;
+    height: 120px;
+    margin: auto;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+.discription p{
+    margin-left: 6px;
+    padding-top: 4px;
+}
+.discription button{
+    font-size: 20px;
+    border-radius: 4px;
+    background-color: rgb(8, 204, 8);
+}
+.discription button:hover{
+    background-color: red;
+    font-size: 23px;
+}
+.row-2{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    padding-top: 130px;
+}
+.row-3{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    padding-top: 130px;
+}
+.row-4{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    padding-top: 130px;
+}
+
+.menu-bar-buying{
+    width: 50%;
+    margin: auto;
+    background-color: rgba(25, 9, 150, 0.915);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.menu-back{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: inline-block;
+    padding-left: 75%;
+}
+.menu-back li{
+    list-style: none;
+    display: inline;
+}
+
+.menu-back a{
+    text-decoration: none;
+    margin: 20px;
+    color: #eae4e4;
+}
+.container-02{
+    background-color: rgba(20, 20, 20, 0.499);
+    width: 50%;
+    margin: auto;
+    height: 550px;
+    border-radius: 10px;
+}
+.footer-bar{
+    background-color: rgba(25, 9, 150, 0.915);
+    color: #fff;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 160px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-bar i{
+    font-size: 40px;
+    display: inline-block;
+    margin: 20px;
+}
